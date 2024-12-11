@@ -15,6 +15,12 @@ Interactive notebooks are also available on Google Colab for easy execution and 
 - [Databricks Implementation Notebook](https://colab.research.google.com/drive/1NF6BNPh-zYZ5L4-8pH0MXWxyDJkASs1T?usp=sharing)
 
 ---
+## Youtube video Link 
+
+Check out the Youtube video explanation [here](https://youtu.be/8xPwmCtx2HA)
+
+---
+
 ## Dimensionality Reduction Techniques
 
 The following dimensionality reduction methods have been explored and implemented in this project:
